@@ -476,7 +476,7 @@
         "format": "source",
         "url": "https://testingcf.jsdelivr.net/gh/calledT/sing-box-rule/geo/geosite/local.json",
         "download_detour": "🎯 全球直连"
-      }
+      },
       {
         "tag": "geoip-google",
         "type": "remote",
